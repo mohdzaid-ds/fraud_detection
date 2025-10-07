@@ -1,5 +1,6 @@
 # fraud_detection
 To detect the transaction is fraud or not based on the fraud_detection.pdf description 
+to improve accuracy use feature selection ,SMOTE, XGBoost 
 # 💳 Fraud Detection using Machine Learning
 
 A machine learning project to *detect fraudulent transactions* using historical data and feature-based analysis. The goal is to build a robust model that accurately distinguishes between *legitimate* and *fraudulent* transactions, helping organizations minimize financial losses and improve security.

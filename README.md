@@ -32,3 +32,4 @@ The dataset is preprocessed, imbalanced classes are handled, and multiple ML mod
 - *Scikit-learn* – Model building and evaluation  
 - *XGBoost* – Gradient boosting classifier  
 - *Matplotlib / Seaborn* – Data visualization
+- streamlit for UI
